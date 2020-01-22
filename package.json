@@ -61,7 +61,7 @@
     "rimraf": "^3.0.0",
     "ts-jest": "^24.0.2",
     "typescript": "~3.7.0",
-    "typescript-eslint-language-service": "^2.0.3",
+    "typescript-eslint-language-service": "^2.1.0",
     "vscode-languageserver-types": "^3.14.0"
   },
   "peerDependencies": {
