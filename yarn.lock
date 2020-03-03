@@ -6631,10 +6631,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript-eslint-language-service@^2.0.3:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/typescript-eslint-language-service/-/typescript-eslint-language-service-2.1.1.tgz#2a3a68012fb71c253a4d6d4fd2cdec8b5451eb68"
-  integrity sha512-iuSQb0F4Nh6HpvWNRm3ndJkAGLiLTx8idQ0UaZ5gSFUwi7YuZsDGi0KQxGqCjVZu/RYj0R8CJOv1ywScTr7Xdw==
+typescript-eslint-language-service@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/typescript-eslint-language-service/-/typescript-eslint-language-service-2.1.5.tgz#ee2136ea4e1d4936ba9d1c917c716e0d7921072f"
+  integrity sha512-hzRJiOs9jd8ARBQDF/sMDEF2+hN4CXD9MXNHFZxDt8fw9ed7HRWVhz2MUuV8Au1KR7V2saphuPH0c+XqE4KvGw==
   dependencies:
     read-pkg-up "^7.0.0"
 
